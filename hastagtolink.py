@@ -6,4 +6,4 @@ def replaceHastagPerLink(text):
     
 text = "Aller sur #facebook puis sur #twitter ensuite aller sur #instagram"
 
-replaceHastagPerLink(text)
+print(replaceHastagPerLink(text))
